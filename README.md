@@ -49,7 +49,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: @HarijJishnu(https://github.com/yourusername)
+- GitHub: @HarijJishnu(https://github.com/HariJishnu)
 - Instagram: hari_jishnuu.67(https://instagram.com/hari_jishnuu.67)
 - Email: harijishnu212004@gmail.com
 
