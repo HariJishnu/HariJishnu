@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Hari Jishnu
 
 > 16-year-old aspiring Software Engineer | Python Developer | Building cool stuff one project at a time 🚀
 
@@ -49,9 +49,9 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com)
-- Email: youremail@example.com
+- GitHub: @HarijJishnu(https://github.com/yourusername)
+- Instagram: hari_jishnuu.67(https://instagram.com/hari_jishnuu.67)
+- Email: harijishnu212004@gmail.com
 
 ---
 
